@@ -1,6 +1,6 @@
 # PCA(Principal Component Analysis)
 
-* PCA는 데이터의 분산(variance)을 최대한 보존하면서 데이터의 분산(variance)을 최대한 보존하면서 서로 직교하는 새 기저(축)를 찾아, 고차원 공간의 표본들을 선형 연관성이 없는 저차원 공간(초평면)으로 변환하는 기법이다.
+* PCA는 데이터의 분산(variance)을 최대한 보존하면서 데이터의 분산(variance)을 최대한 보존하면서 서로 직교하는 새 기저(축)를 찾아, 고차원 공간의 표본들을 선형 연관성이 없는 저차원 공간으로 변환하는 기법이다.
 
 <img width="300" alt="pca" src="https://user-images.githubusercontent.com/46274774/81775618-2201df80-9528-11ea-884d-41c99ab09187.png">
 
