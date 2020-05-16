@@ -49,7 +49,7 @@
 * 이때 주축(principal axis)에 projection 시키는것이 가장 적절하며, 이때의 분산을 가장 큰 값을 가지게 된다. 즉 데이터의 분산(variance)가 클 수록 데이터의 구조를 잘 살려준다고 할 수 있다.
 * 선형 변환에서의 주축을 eigenvector라고 하며 eigenvector를 찾는다는 것은 선형변환을 했을때 크기만 바뀌고 방향은 바뀌지 않는 벡터를 찾는다는 의미이다.
 
-![Image 2020  5  15](https://user-images.githubusercontent.com/46274774/82011830-18f04a00-96b1-11ea-8adb-ae2fcda13ae0.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/46274774/82011830-18f04a00-96b1-11ea-8adb-ae2fcda13ae0.png" width="70%"></p>
 
 * 즉 projection후에 가장 큰 variance를 얻기 위해서는 eigenvector에 projection해야한다.
 * N차원의 경우 N개의 eigenvector가 나오며 (Symmetric Matrix라서 이는 모두 직교한다.) K차원으로 감소시 eigenvector가 큰 K개의 eigenvector가 이루는 평면으로 데이터를 projection하여 K차원으로 감소된 데이터를 확보한다.
