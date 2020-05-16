@@ -54,4 +54,4 @@
 * 즉 projection후에 가장 큰 variance를 얻기 위해서는 eigenvector에 projection해야한다.
 * N차원의 경우 N개의 eigenvector가 나오며 (Symmetric Matrix라서 이는 모두 직교한다.) K차원으로 감소시 eigenvector가 큰 K개의 eigenvector가 이루는 평면으로 데이터를 projection하여 K차원으로 감소된 데이터를 확보한다.
 
-<핸즈온 머신러닝, 공돌이의 수학 정리 노트를 참고하여 작성하였음.>
+<핸즈온 머신러닝, 공돌이의 수학 정리 노트를 참고하여 작성>
